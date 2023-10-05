@@ -35,7 +35,7 @@
 ### Projects (dev)
  - Development of technology to determine meter readings by photo ([Waterdroplet](https://waterdroplet.ru))
  - Designing the system architecture ([Waterdroplet](https://waterdroplet.ru))
-### Projects (manager)
+### Projects (PM)
  - Director of Research and Development ([Waterdroplet](https://waterdroplet.ru))
 
 ## Achievements
