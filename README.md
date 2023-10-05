@@ -39,7 +39,16 @@
  - Director of Research and Development ([Waterdroplet](https://waterdroplet.ru))
 
 ## Achievements
-
+### Winner:
+ - XXIII International Scientific Conference of Schoolchildren "Kolmogorov Readings"
+ - All-Russian competition of research and project works of schoolchildren "Higher Pilotage"
+ - 27th Regional Scientific and Practical Conference of Students "Creativity of the Young"
+ - Regional stage of the contest of scientific and technological projects "Big Challenges"
+ - Regional stage of the Samara scientific and educational competition "VZLET"
+### Prize-winner:
+ - City scientific-practical conference "Engineers of the Future" 
+### Finalist:
+ - National Olympiad on Data Analysis DANO
 
 
 <!--
