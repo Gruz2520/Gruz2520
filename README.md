@@ -1,8 +1,8 @@
 ## I a little about me
 
-- 🔭 I am a ML engineer and IT project manager from Russia. I am involved in research in various fields using machine learning and commercial development.
+- 🔭 I am a ML engineer and IT project manager from Russia. I am involved in research in various fields using machine learning and commercial development
 - 🎓 Student of the Higher School of Economics, Faculty of Computer Science, Software Engineering 
-- ✍️ I am passionate about machine learning, DataScience, building IT processes, ambitious IT projects.
+- ✍️ I am passionate about machine learning, DataScience, building IT processes, ambitious IT projects
 
 ## Experience
 
@@ -27,6 +27,21 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="60" height="60"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" alt="matlab" width="60" height="60"/>&nbsp
 </div>
+
+## Projects and research
+
+### Research
+ - [3DGAN-for-MOF](https://github.com/Gruz2520/3DGAN-for-MOF) - Physics research on the generation of new types of MOF with adsorption properties
+### Projects (dev)
+ - Development of technology to determine meter readings by photo ([Waterdroplet](https://waterdroplet.ru))
+ - Designing the system architecture ([Waterdroplet](https://waterdroplet.ru))
+### Projects (manager)
+ - Director of Research and Development ([Waterdroplet](https://waterdroplet.ru))
+
+## Achievements
+
+
+
 <!--
 **Gruz2520/Gruz2520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
