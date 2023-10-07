@@ -1,7 +1,7 @@
 ## I little about me
 
 - 🔭 I am a ML engineer and IT project & product manager from Russia. I am involved in research in various fields using machine learning and commercial development
-- 🎓 Student of the Higher School of Economics, Faculty of Computer Science, Software Engineering 
+- 🎓 Student of the High School of Economics, Faculty of Computer Science, Software Engineering 
 - ✍️ I am passionate about Machine Learning, DataScience, building IT processes, ambitious IT projects
 
 ## Experience
