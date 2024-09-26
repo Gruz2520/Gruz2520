@@ -37,7 +37,7 @@
 - Building a team and leading the development processes
 - Development of technology to determine meter readings by photo [tap](https://github.com/Gruz2520/waterdroplet/tree/main/api_ml)
 - Designing the system architecture
-#### [Create 2-step recomendation model](https://github.com/Gruz2520/rec_system_2stepCatboost)
+#### [2-step recomendation model](https://github.com/Gruz2520/rec_system_2stepCatboost)
 - Building a team and leading the development processes
 - Development of the solution architecture
 - Feature Engineering
