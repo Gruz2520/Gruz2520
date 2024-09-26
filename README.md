@@ -29,7 +29,7 @@
 
 ### Research
  - [3DGAN-for-MOF](https://github.com/Gruz2520/3DGAN-for-MOF) - Physics research on the generation of new types of MOF with adsorption properties
- - [Ьolecular energy prediction](https://github.com/Gruz2520/predict_energy_of_mols) - Predicting molecular energy through materials science research with GCN
+ - [molecular energy prediction](https://github.com/Gruz2520/predict_energy_of_mols) - Predicting molecular energy through materials science research with GCN
  - [Predict the toxicity of molecules](https://github.com/Gruz2520/predict_toxic_mol) - Research into the prediction of the toxic properties of molecules in materials science
 ### Projects 
 #### [Waterdroplet](https://github.com/Gruz2520/waterdroplet)
