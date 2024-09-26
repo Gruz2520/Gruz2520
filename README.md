@@ -7,7 +7,7 @@
 ## Experience
 
 - TeamLead Team Buns ML
-- ex-ItLead Waterdroplet
+- ex-ITLead Waterdroplet
 
 ## My stack
 <div>
