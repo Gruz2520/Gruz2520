@@ -7,6 +7,7 @@
 ## Experience
 
 - TeamLead Team Buns ML
+- ex-ItLead Waterdroplet
 
 ## My stack
 <div>
@@ -57,6 +58,9 @@
  - Data Analysis National Olympiad DANO
  - Hackathon GS Labs
 
+
+## Expertise
+- Main expert on VK ML Hack 2024
 
 <!--
 **Gruz2520/Gruz2520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
