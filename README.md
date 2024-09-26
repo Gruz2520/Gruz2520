@@ -6,8 +6,7 @@
 
 ## Experience
 
-- ex-Director of Research and Development in [Waterdroplet](https://waterdroplet.ru)
-- TeamLead Buns DevTeam
+- TeamLead Team Buns ML
 
 ## My stack
 <div>
@@ -17,8 +16,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="60" height="60"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="60" height="60"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="opencv" alt="opencv" width="60" height="60"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="dart" alt="dart" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="flutter" alt="flutter" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="60" height="60"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="60"/>&nbsp
@@ -32,11 +29,20 @@
 
 ### Research
  - [3DGAN-for-MOF](https://github.com/Gruz2520/3DGAN-for-MOF) - Physics research on the generation of new types of MOF with adsorption properties
-### Projects (dev)
- - Development of technology to determine meter readings by photo ([Waterdroplet](https://waterdroplet.ru))
- - Designing the system architecture ([Waterdroplet](https://waterdroplet.ru))
-### Projects (PM)
- - Director of Research and Development ([Waterdroplet](https://waterdroplet.ru))
+ - [Ьolecular energy prediction](https://github.com/Gruz2520/predict_energy_of_mols) - Predicting molecular energy through materials science research with GCN
+ - [Predict the toxicity of molecules](https://github.com/Gruz2520/predict_toxic_mol) - Research into the prediction of the toxic properties of molecules in materials science
+### Projects 
+#### [Waterdroplet](https://github.com/Gruz2520/waterdroplet)
+- Building a team and leading the development processes
+- Development of technology to determine meter readings by photo [tap](https://github.com/Gruz2520/waterdroplet/tree/main/api_ml)
+- Designing the system architecture
+#### [Create 2-step recomendation model](https://github.com/Gruz2520/rec_system_2stepCatboost)
+- Building a team and leading the development processes
+- Development of the solution architecture
+- Feature Engineering
+- Development of a Custom Activation Function
+- Ensemble of Models Improvement
+
 
 ## Achievements
 ### Winner:
@@ -49,6 +55,7 @@
  - City scientific-practical conference "Engineers of the Future" 
 ### Finalist:
  - Data Analysis National Olympiad DANO
+ - Hackathon GS Labs
 
 
 <!--
