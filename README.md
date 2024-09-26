@@ -32,16 +32,16 @@
  - [molecular energy prediction](https://github.com/Gruz2520/predict_energy_of_mols) - Predicting molecular energy through materials science research with GCN
  - [Predict the toxicity of molecules](https://github.com/Gruz2520/predict_toxic_mol) - Research into the prediction of the toxic properties of molecules in materials science
 ### Projects 
-#### [Waterdroplet](https://github.com/Gruz2520/waterdroplet)
-- Building a team and leading the development processes
-- Development of technology to determine meter readings by photo [tap](https://github.com/Gruz2520/waterdroplet/tree/main/api_ml)
-- Designing the system architecture
 #### [2-step recomendation model](https://github.com/Gruz2520/rec_system_2stepCatboost)
 - Building a team and leading the development processes
 - Development of the solution architecture
 - Feature Engineering
 - Development of a Custom Activation Function
 - Ensemble of Models Improvement
+#### [Waterdroplet](https://github.com/Gruz2520/waterdroplet)
+- Building a team and leading the development processes
+- Development of technology to determine meter readings by photo [tap](https://github.com/Gruz2520/waterdroplet/tree/main/api_ml)
+- Designing the system architecture
 
 
 ## Achievements
