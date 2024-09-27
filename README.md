@@ -29,8 +29,8 @@
 
 ### Research
  - [3DGAN-for-MOF](https://github.com/Gruz2520/3DGAN-for-MOF) - Physics research on the generation of new types of MOF with adsorption properties
- - [molecular energy prediction](https://github.com/Gruz2520/predict_energy_of_mols) - Predicting molecular energy through materials science research with GCN
- - [Predict the toxicity&energy of molecules](https://github.com/Gruz2520/predict_toxic_mol) - Research into the prediction of the toxic & energy properties of molecules in materials science
+ - [molecular energy prediction](https://github.com/Gruz2520/predict_energy_of_mols) - Predicting molecular energy through materials science research with [MatErials Graph Network (MEGNet)](https://github.com/materialsvirtuallab/megnet)
+ - [Predict the toxicity&energy of molecules](https://github.com/Gruz2520/predict_toxic_mol) - Research into the prediction of the toxic & energy properties of molecules in materials science. Determining the effectiveness of a new method of augmentation on different models.
 ### Projects 
 #### [2-step recomendation model](https://github.com/Gruz2520/rec_system_2stepCatboost)
 - Building a team and leading the development processes
